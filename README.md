@@ -12,8 +12,8 @@ This project is a C-based application that performs image compression and decomp
 
 ## Usage
 
-The application is run from the command line with the following syntax:
-./quadtree [-c1 factor | -c2 factor | -d] [input_file] [output_file] where:
+The application is run from the command line with the following syntax: 
+"./quadtree [-c1 factor | -c2 factor | -d] [input_file] [output_file]" where:
 - `-c1 factor` indicates that the program will solve requirement 1 (factor = the threshold imposed for the compression tree).
 - `-c2 factor` indicates that the program will solve requirement 2 (factor = the threshold imposed for the compression tree).
 - `-d` indicates that the program will solve requirement 3.
