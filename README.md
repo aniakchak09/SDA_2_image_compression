@@ -17,5 +17,5 @@ The application is run from the command line with the following syntax:
 - `-c1 factor` indicates that the program will solve requirement 1 (factor = the threshold imposed for the compression tree).
 - `-c2 factor` indicates that the program will solve requirement 2 (factor = the threshold imposed for the compression tree).
 - `-d` indicates that the program will solve requirement 3.
-- `file_input` represents the name of the first input file (which contains the image).
+- `file_input` represents the name of the input file (which contains the image).
 - `file_output` represents the name of the output file, in which the result of the program execution will be written, depending on the received command.
